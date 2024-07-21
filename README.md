@@ -13,11 +13,7 @@ This project is a desktop application built using Tkinter in Python. It includes
 - **database.py**: Handles all database interactions. It directly interacts with the `db.json` file.
 - **db.json**: Acts as the database for the application, storing all necessary data.
 - **resources.properties**: Includes the icon of the app and acts as resource storage for the application.
-![Screenshot 2024-07-18 171142](https://github.com/user-attachments/assets/bda5aed6-7d92-48c9-a380-15111bd8ec77)
-![Screenshot 2024-07-18 171152](https://github.com/user-attachments/assets/d967ca75-0af6-401d-9ea7-47503f534c75)
-![Screenshot 2024-07-18 171332](https://github.com/user-attachments/assets/5d5cae3a-bd9b-4711-afd0-fcc7e947da5a)
-
-
+![collage](https://github.com/user-attachments/assets/2d429f67-9183-4ec9-8909-cc8e5bc29130)
 ## Features
 
 ### Tkinter Desktop Application
